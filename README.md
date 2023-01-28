@@ -1,4 +1,4 @@
 # CS-4375
 
 # Portfolio Component 0 : Portfolio Set Up
-4375_AMD_Portfolio Component 0.pdf
+https://github.com/allydevera/CS-4375/blob/8b903a12409f36fc4f466a87ccd27514c3287f47/4375_AMD_Portfolio%20Component%200.pdf
