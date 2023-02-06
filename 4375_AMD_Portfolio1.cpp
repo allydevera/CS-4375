@@ -94,7 +94,7 @@ float mode(vector<float> var)
 float range(vector<float> var)
 {
 	float max = 0;
-	float min = var(0);
+	float min = var[0];
 	for (int i = 0; i < var.size(); i++)
 	{
 		if (max < var[i])
