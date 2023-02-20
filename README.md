@@ -7,3 +7,6 @@ WRITE UP : https://github.com/allydevera/CS-4375/blob/8b903a12409f36fc4f466a87cc
 # Portfolio Component 1 : C++ Data Exploration
 WRITE UP : https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio%20Component%201.pdf        
 CODE : https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio1.cpp
+
+# Portfolio Component 1 : Regression
+PRINT TO PDF :https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio%20Component%202.pdf
