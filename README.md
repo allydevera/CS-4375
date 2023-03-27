@@ -13,3 +13,6 @@ PRINT TO PDF :https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio
 
 # Portfolio Component 3
 CODE : https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio%20Component%203.cpp
+
+# Portfolio Component 4
+CODE : https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio%20Component%204.docx
