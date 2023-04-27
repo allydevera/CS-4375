@@ -21,5 +21,5 @@ CODE : https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio%20Comp
 CODE : https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio%20Component%205.ipynb%20-%20Colaboratory.pdf
 
 # Portfolio Component 6
-CODE : 
+CODE : https://github.com/allydevera/CS-4375/blob/main/4375_AMD_Portfolio%20Component%206.pdf
 
